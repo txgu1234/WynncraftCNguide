@@ -32,7 +32,7 @@ Detlas还有玩家市场，可以在此处进行交易
 
 沿着路直接往东边走即可，很好走
 
-特别地：当做完[Tunnel Trouble ( level 6 )](/quests/lvl1-10/level%206%20-%20Tunnel%20Trouble.html)之后，可以通过两地之间的快速旅行通道来快速往返
+特别地：当做完[Tunnel Trouble （6级任务）](/quests/lvl1-10/level%206%20-%20Tunnel%20Trouble.html)之后，可以通过两地之间的快速旅行通道来快速往返
 
 位置就是做任务时候经过的隧道
 
